@@ -1,0 +1,11 @@
+C:\Users\tejas\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.deps.json
+C:\Users\tejas\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.runtimeconfig.json
+C:\Users\tejas\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.runtimeconfig.dev.json
+C:\Users\tejas\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.dll
+C:\Users\tejas\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.pdb
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.AssemblyInfo.cs
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.dll
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.pdb
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.csprojAssemblyReference.cache
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.csproj.CoreCompileInputs.cache
+C:\Users\tejas\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.AssemblyInfoInputs.cache
